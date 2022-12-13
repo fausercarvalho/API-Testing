@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.test.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^26.1.0",
     "json": "^9.0.6",
     "supertest": "^4.0.2"
